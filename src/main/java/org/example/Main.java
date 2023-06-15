@@ -56,7 +56,7 @@ public class Main {
             System.out.println(jsonAPIResponse.get("categories"));
         }
         else
-            System.out.println("API call could not be made!!!");
+            System.out.println("API not valid!");
 
 
 
